@@ -1,5 +1,5 @@
 # Air Assault Application
-## Created by: Alex Chaban, Eric Borges, Renan Queiroz, Kevin Tudor, Fritz Eugene
+## Created by: Alex Chaban, Kevin Tudor, Renan Queiroz
 ### Start Date: August 2022
 ### End Date: May 2023
 Educational application designated for the Sabaluski Air Assault School located in Fort Cambell.
