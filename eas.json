@@ -1,0 +1,35 @@
+{
+    "cli": {
+      "promptToConfigurePushNotifications": false,
+      "appVersionSource": "remote"
+    },
+    "build": {
+      "preview": {
+        "extends": "production",
+        "android": {
+          "buildType": "apk"
+        }
+      },
+      "development": {
+        "extends": "production",
+        "distribution": "internal"
+      },
+      "preview2": {
+        "extends": "production",
+        "android": {
+          "gradleCommand": ":app:assembleRelease"
+        }
+      },
+      "iOS": {
+        "extends": "production",
+        "distribution": "internal"
+      },
+      "production": {
+        "autoIncrement": true,
+        "android": {
+          "buildType": "apk"
+        }
+      }
+    }
+  }
+  
