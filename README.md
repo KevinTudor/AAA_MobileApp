@@ -1,5 +1,5 @@
 # Air Assault Application
-
+![Project Poster](assets/Poster_original.png)
 ## Introduction
 The Air Assault Application is a mobile solution developed in response to a Request for Proposal (RFP) from the 101st Airborne Division. It aims to enhance training tools and materials for soldiers pursuing Air Assault, Ranger, and Pathfinder qualifications. This README provides an overview of the project, its goals, and key information.
 
